@@ -1,5 +1,3 @@
-var seleniumServer = require('selenium-server')
-var phantomjs = require('phantomjs-prebuilt')
 var chromedriver = require('chromedriver')
 
 require('nightwatch-cucumber')()
