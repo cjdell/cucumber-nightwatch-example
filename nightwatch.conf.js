@@ -6,7 +6,6 @@ module.exports = {
   output_folder: 'reports',
   custom_commands_path: '',
   custom_assertions_path: '',
-  globals_path: 'nightwatch.globals.js',
   live_output: false,
   disable_colors: false,
 
